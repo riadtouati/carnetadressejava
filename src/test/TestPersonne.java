@@ -1,7 +1,10 @@
 package test;
 
 import entree.Genre;
+import entree.Personne;
+import entree.Presentation;
 import entree.Sens;
+import entree.Societe;
 
 /**
  * Test le bon fonctionnement de la classe Personne.
